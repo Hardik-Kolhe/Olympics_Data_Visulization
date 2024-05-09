@@ -1,7 +1,7 @@
 # Olympic Games Data Analysis (1896 - 2022)
 
 <p align="center">
-  <img src="https://github.com/Hardik-Kolhe/Olympics_Data_Visualization/assets/159580438/65de59d7-aa36-4297-8ae5-ea5e98db57ba" alt="Olympic Games" />
+  <img src="https://github.com/Hardik-Kolhe/Olympics_Data_Visulization/assets/159580438/38ba1474-9361-4f9d-94d0-6f4250559dc4" alt="Olympic Games" />
 </p>
 
 ## Introduction
